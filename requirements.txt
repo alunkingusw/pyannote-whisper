@@ -3,6 +3,6 @@ numpy
 torch
 torchvision
 openai-whisper
-pyannote.audio
+pyannote.audio=3.3.2
 soundfile
 speechbrain
